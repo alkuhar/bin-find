@@ -1,0 +1,19 @@
+{
+  "name": "bin-find",
+  "version": "1.0.0",
+  "description": "Binary search using a sorted array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkuhar/bin-find.git"
+  },
+  "author": "Alex Kukharets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alkuhar/bin-find/issues"
+  },
+  "homepage": "https://github.com/alkuhar/bin-find#readme"
+}
